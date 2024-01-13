@@ -1,0 +1,3 @@
+[submodule "evanjonesds.com/themes/personal-web"]
+	path = evanjonesds.com/themes/personal-web
+	url = https://github.com/bjacquemet/personal-web.git

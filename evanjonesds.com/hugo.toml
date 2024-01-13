@@ -1,0 +1,4 @@
+baseURL = 'https://evanjonesds.com/'
+languageCode = 'en-us'
+title = 'Evan Jones Portfolio'
+theme = 'personal-web'
