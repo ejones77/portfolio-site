@@ -1,4 +1,4 @@
-baseURL = 'https://evanjonesds.com/'
+baseURL = 'https://evanjonesds.com'
 languageCode = 'en-us'
 title = 'Evan Jones Portfolio'
 theme = 'personal-web'
@@ -9,7 +9,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
+  main = "Hi, I'm Evan :wave:"
   sub = "I'm a Web Developer and Entrepreneur"
 
 [params.main]
