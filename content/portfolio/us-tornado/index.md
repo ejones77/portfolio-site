@@ -2,7 +2,7 @@
 title: US Tornado Dashboard
 description: Interactive Streamlit app with historic tornado data
 date: "2023-12-14"
-jobDate: 2023
+jobDate: 2023-12-14
 work: [Data Visualization]
 techs: [Python, Streamlit, Plotly]
 thumbnail: ../../images/F5_tornado_Elie_Manitoba_2007.jpg

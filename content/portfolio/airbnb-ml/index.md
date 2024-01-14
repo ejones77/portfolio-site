@@ -2,7 +2,7 @@
 title: Airbnb Price Prediction
 description: Training Machine Learning models to predict European Airbnb listing prices.
 date: "2023-12-7"
-jobDate: 2023
+jobDate: 2023-12-7
 work: [Machine Learning]
 techs: [Python, Pandas, Seaborn, sk-learn]
 thumbnail: ../../images/airbnb-cc.jpg

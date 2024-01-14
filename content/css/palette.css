@@ -123,3 +123,9 @@ table tr:nth-child(even) {
 table tr:hover {
   background-color: #AF3DDB;
 }
+
+/* fixing the techs page and bullet points */ 
+
+#all-tags {
+  margin-top: 50px;
+}
