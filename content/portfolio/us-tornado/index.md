@@ -13,7 +13,7 @@ projectUrl: https://github.com/ejones77/tornado_app
 
 Using Streamlit, Geopandas, and Plotly, I developed an interactive application to visualize US tornado data from 1950-2021.
 
-This [dashboard](https://us-tornado-app.streamlit.app/) utilizes custom GeoJSON objects pertaining to US State and Territory boundaries to display 71 years of tornadoes, complete with filters for state and magnitude. 
+This <a href="https://us-tornado-app.streamlit.app/" target="_blank">dashboard</a> utilizes custom GeoJSON objects pertaining to US State and Territory boundaries to display 71 years of tornadoes, complete with filters for state and magnitude. 
 
 Summary statistics and aggregated visualizations show which states have experienced the worst tornadoes. 
 

@@ -11,7 +11,7 @@ projectUrl: https://github.com/ejones77/spotify-lifetime-listening
 ---
 *"Speaker Drivers" by DeclanTM is licensed under CC BY 2.0.*<br><br>
 
-After requesting my lifetime [listening history](https://support.spotify.com/us/article/understanding-my-data/) from Spotify, I used the [Spotify API](https://developer.spotify.com/documentation/web-api) to supplement the intial dataset with features for each track, artist, and album. Using pandas and plotly, I cleaned and visualized 38 columns and 179,000+ rows.
+After requesting my lifetime <a href="https://support.spotify.com/us/article/understanding-my-data/" target="_blank">listening history</a> from Spotify, I used the <a href="https://developer.spotify.com/documentation/web-api" target="_blank">Spotify API</a> to supplement the intial dataset with features for each track, artist, and album. Using pandas and plotly, I cleaned and visualized 38 columns and 179,000+ rows.
 
 Here are some of my favorite charts from the project:
 <br><br>
