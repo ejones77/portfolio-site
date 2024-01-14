@@ -6,7 +6,7 @@ jobDate: 2023
 work: [Data Analysis, Data Visualization]
 techs: [Python, Pandas, Plotly]
 thumbnail: ../../images/speakers.jpg
-projectUrl: https://github.com/ejones77/airbnb-predictions
+projectUrl: https://github.com/ejones77/spotify-lifetime-listening
 
 ---
 
