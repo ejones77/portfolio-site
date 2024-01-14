@@ -26,3 +26,26 @@ body, footer{
   .intro h2, .intro h3 {
     color: #ffffff;
   }
+
+  .center-iframe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .iframe-chart {
+    margin-left: -700px;
+    margin-right: -700px;
+  }
+
+  .portfolio img {
+    max-width: 125%;
+    max-height: 125%;
+  }
+
+  .image-chart {
+    object-fit: cover;
+    padding: 0;
+    border: none;
+    overflow: visible;
+}
