@@ -1,0 +1,28 @@
+body, footer{
+    background-color: #2C423F; 
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #15998F;
+  }
+  
+  p {
+    color: #EEE3AB;
+  } 
+
+
+  .breadcrumb, .read-more, .tags {
+    color: #AF3DDB; 
+  }
+
+  .icon svg path {
+    fill: #AF3DDB; 
+  }
+
+  .socials svg path {
+    fill: #ffffff; 
+  }
+
+  .intro h2, .intro h3 {
+    color: #ffffff;
+  }

@@ -10,7 +10,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Evan :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  sub = "Compliance Data Strategist & Aspiring Machine Learning Engineer"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -24,7 +24,7 @@ pygmentsCodeFences=true
 
 [params]
   breadcrumb = true
-  accentColor = "#FD3519"
+  accentColor = "#AF3DDB"
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
   rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
@@ -33,6 +33,7 @@ pygmentsCodeFences=true
   h1 = 'Bummer!'
   p = "It seems that this page doesn't exist."
 
+
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
@@ -40,24 +41,17 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  backgroundImage = '/images/turqoise-background.jpg'
+  gradientOverlay = 'rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)' 
+  logo = "/images/IMG-0588.JPG"
 [params.assets]
   favicon = ""
-  customCSS = ""
+  customCSS = "/css/palette.css"
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
+  github = "https://github.com/ejones77"
+  linkedin = "https://www.linkedin.com/in/ejones77/"
+
 
 [params.contact]
   email = ""
@@ -65,6 +59,13 @@ pygmentsCodeFences=true
 
 
 [menu]
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  title = "Home"
+  url = "/"
+  weight = -130
 
 [[menu.main]]
   identifier = "about"
@@ -79,13 +80,6 @@ pygmentsCodeFences=true
   title = "Portfolio"
   url = "/portfolio/"
   weight = -110
-
-[[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
 
 [sitemap]
   changefreq = "monthly"
