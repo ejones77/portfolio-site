@@ -23,5 +23,5 @@ Streamlit might take a while to boot, so I'll include the feature chart below!
 <br>
 <br>
 <div class="center-iframe">
-<iframe class="iframe-chart" src="../../charts/tornado-map.html" width="1225" height="1025" scrolling="no"></iframe>
+<iframe class="iframe-chart" src="../../charts/tornado-map.html" width="1000" height="800"></iframe>
 </div>

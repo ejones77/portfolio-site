@@ -8,7 +8,7 @@ body, footer{
     color: #15998F;
   }
   
-  p {
+  p, li, table {
     color: #EEE3AB;
   } 
 
@@ -30,16 +30,16 @@ body, footer{
 
 /* interactive geo chart */
 
-  .center-iframe {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+.center-iframe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
-  .iframe-chart {
-    margin-left: -700px;
-    margin-right: -700px;
-  }
+.iframe-chart {
+  margin-left: -400px;
+  margin-right: -400px;
+}
 
 /* static png images */
 
@@ -99,4 +99,27 @@ body, footer{
   border: 0;
   box-sizing: border-box;
   overflow: hidden;
+}
+
+/* table formatting */ 
+
+table th:first-child {
+  text-align: left;
+}
+
+table th, table td {
+  padding: 0 10px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0 10px;
+}
+
+table tr:nth-child(even) {
+  background-color: #15998F;
+}
+
+table tr:hover {
+  background-color: #AF3DDB;
 }
