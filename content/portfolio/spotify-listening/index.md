@@ -18,7 +18,7 @@ Here are some of my favorite charts from the project:
 
 
 <div class="center-iframe">
-<iframe class="iframe-chart" src="../../charts/spotify-volume.html" width="1425" height="625" scrolling="no"></iframe>
+<iframe class="iframe-chart" src="../../charts/spotify-volume.html" width="1125" height="625" scrolling="no"></iframe>
 </div>
 <br>
 
@@ -26,7 +26,7 @@ Here are some of my favorite charts from the project:
 
 <br>
 <div class="center-iframe">
-<iframe class="iframe-chart" src="../../charts/spotify-yearly-mins.html" width="1425" height="625" scrolling="no"></iframe>
+<iframe class="iframe-chart" src="../../charts/spotify-yearly-mins.html" width="1125" height="625" scrolling="no"></iframe>
 </div>
 <br>
 
