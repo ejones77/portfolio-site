@@ -1,3 +1,5 @@
+/* colors */
+
 body, footer{
     background-color: #2C423F; 
   }
@@ -9,7 +11,6 @@ body, footer{
   p {
     color: #EEE3AB;
   } 
-
 
   .breadcrumb, .read-more, .tags {
     color: #AF3DDB; 
@@ -27,6 +28,8 @@ body, footer{
     color: #ffffff;
   }
 
+/* interactive geo chart */
+
   .center-iframe {
     display: flex;
     align-items: center;
@@ -38,9 +41,12 @@ body, footer{
     margin-right: -700px;
   }
 
+/* static png images */
+
   .portfolio img {
-    max-width: 125%;
-    max-height: 125%;
+    max-width: 150%;
+    max-height: 100%;
+    margin-left: -25%;
   }
 
   .image-chart {
@@ -48,4 +54,49 @@ body, footer{
     padding: 0;
     border: none;
     overflow: visible;
+}
+
+
+/* smaller interactive charts */
+
+.responsive-iframe {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  width: 120%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.responsive-iframe-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.box-iframe {
+  position: relative;
+  padding-bottom: 100%;
+  height: 0;
+  overflow: hidden;
+  width: 150%;
+  height: 200%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box-iframe-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  box-sizing: border-box;
+  overflow: hidden;
 }

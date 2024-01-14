@@ -20,21 +20,20 @@ Nine models were tested, including linear regression, random forest, and a neura
 All in all, the best model was a Random Forest with an RMSE of 84. 
 
 
-<!---
+
 Here are some charts from that project: <br><br>
 
-<img class="image-chart" src="../../charts/airbnb-eda.png" alt="Exploring initial features between European cities." width="1586" height="800">
+<img class="image-chart" src="../../charts/airbnb-eda.png" alt="Exploring initial features between European cities.">
 
 <br>
----
-<br>
-
-<img class="image-chart" src="../../charts/airbnb-dist.png" alt="Performing transformations on continuous features." width="1586" height="800">
 
 <br>
----
+
+<img class="image-chart" src="../../charts/airbnb-dist.png" alt="Performing transformations on continuous features.">
+
 <br>
 
-<img class="image-chart" src="../../charts/airbnb-models.png" alt="Final results from machine learning models trained" width="800" height="550" style="object-fit: cover; padding: 0; border: none; overflow: visible;">
+<br>
 
--->
+<img class="image-chart" src="../../charts/airbnb-models.png" alt="Final results from machine learning models trained">
+

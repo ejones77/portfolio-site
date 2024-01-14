@@ -11,35 +11,37 @@ projectUrl: https://github.com/ejones77/spotify-lifetime-listening
 ---
 *"Speaker Drivers" by DeclanTM is licensed under CC BY 2.0.*<br><br>
 
-After requesting my lifetime listening history from Spotify, I used the Spotify API to supplement the intial dataset with features for each track, artist, and album. Using pandas and plotly, I cleaned and visualized 38 columns and 179,000+ rows.
+After requesting my lifetime [listening history](https://support.spotify.com/us/article/understanding-my-data/) from Spotify, I used the [Spotify API](https://developer.spotify.com/documentation/web-api) to supplement the intial dataset with features for each track, artist, and album. Using pandas and plotly, I cleaned and visualized 38 columns and 179,000+ rows.
 
 Here are some of my favorite charts from the project:
 <br><br>
-
-
-<div class="center-iframe">
-<iframe class="iframe-chart" src="../../charts/spotify-volume.html" width="1125" height="625" scrolling="no"></iframe>
+<div class="responsive-iframe">
+  <iframe src="../../charts/spotify-volume.html" class="responsive-iframe-content"></iframe>
 </div>
 <br>
 
----
 
 <br>
-<div class="center-iframe">
-<iframe class="iframe-chart" src="../../charts/spotify-yearly-mins.html" width="1125" height="625" scrolling="no"></iframe>
+<div class="responsive-iframe">
+  <iframe src="../../charts/spotify-yearly-mins.html" class="responsive-iframe-content"></iframe>
 </div>
 <br>
 
----
 <br>
-<div class="center-iframe">
-<iframe class="iframe-chart" src="../../charts/spotify-artist-mins.html" width="1625" height="1225" scrolling="no"></iframe>
+<div class="responsive-iframe">
+  <iframe src="../../charts/spotify-hourly.html" class="responsive-iframe-content"></iframe>
 </div>
 <br>
----
+
 
 <br>
-<div class="center-iframe">
-<iframe class="iframe-chart" src="../../charts/spotify-radar.html" width="825" height="625" scrolling="no"></iframe>
+<div class="box-iframe">
+  <iframe src="../../charts/spotify-artist-mins.html" class="box-iframe-content"></iframe>
+</div>
+<br>
+
+<br>
+<div class="box-iframe">
+  <iframe src="../../charts/spotify-radar.html" class="box-iframe-content"></iframe>
 </div>
 <br><br>

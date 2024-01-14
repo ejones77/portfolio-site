@@ -1,7 +1,7 @@
 ---
 title: HOME
 description: Evan Jones Portfolio Home Page
-images: ["/images/sample.jpg"]
+images: ["/images/IMG-0588.jpg"]
 ---
 
 Hey,
