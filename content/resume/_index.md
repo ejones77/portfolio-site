@@ -5,17 +5,17 @@ date: 2024-01-14T13:36:57-06:00
 
 ## Work Experience
 
-#### Strategic Data Lead | Senior Compliance Associate | Compliance Associate
+#### Senior Associate, Analytics & Insights | Strategic Data Lead | Senior Compliance Associate | Compliance Associate
 ##### Tegus | Chicago, IL | June 2021 - Present
 
 <br>
 <br>
 
-- Pioneer and scale surveillance systems for an industry-leading compliance department of 40+ using Python, SQL, and Salesforce to measure, audit, and enhance risk assessment through the detection of potentially confidential information. 
-- Improve operational efficiency and quality by deploying NLP transformer models throughout day-to-day workflows.
-- Develop and optimize robotic process automations using Python, Salesforce, and Snowflake to implement ETL tooling in a complex, multi-layered compliance review process.
-- Design dashboards for compliance managers and senior leadership surrounding individual performance and department KPIs. 
-- Screen and edit 1000+ interview transcripts as a compliance associate with essential due diligence and quality control measures to prevent dissemination of confidential and material nonpublic information. 
+- Lead a transcription vendor evaluation to reduce annual costs while maintaining high quality standards for published interview content for a subscription research platform trusted by 2,500+ investment managers and businesses.
+- Pioneer, scale, and productionize surveillance of potentially confidential information for an industry-leading compliance department of 40+ using machine learning and natural language processing to enhance risk assessment.
+- Develop and optimize robotic process automations using Snowflake, dbt, and Salesforce to implement ETL tooling in a complex, multi-layered compliance review process, improving turnaround time to publication by 55%.
+- Guide content operations strategy and enablement through advanced forecasting and capacity planning.
+- Design dashboards for compliance officers and senior leadership surrounding individual performance and department KPIs. 
 
 #### Editor-in-Chief | Campus Editor | City Editor | City of East Lansing Reporter 
 ##### The State News | East Lansing, MI | January 2019 - May 2021
@@ -45,6 +45,19 @@ date: 2024-01-14T13:36:57-06:00
 | Snowflake               | Beginner    | Data integration    |
 | Docker                  | Beginner    | containers, continuous deployment    |
 | VBA                     | Beginner    | Microsoft Word macros   |
+
+## Python Libraries
+- Pandas
+- Numpy
+- Matplotlib
+- Plotly
+- Scikit-Learn
+- Streamlit
+- Requests
+- Spacy
+- NLTK
+- Statsmodels
+- PuLP (Linear Programming)
 
 ## Education
 

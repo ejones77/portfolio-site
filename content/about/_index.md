@@ -6,9 +6,9 @@ images: ["/images/IMG-0588.jpg"]
 
 Nice to meet you! :wave:
 
-Today, I’m a strategic data lead at <a href="https://www.tegus.com/" target="_blank">Tegus</a>, where my role is centered around its library of interview transcripts between investment analysts and industry experts. I support <a href="https://www.tegus.com/compliance" target="_blank">Compliance Operations</a> team in its mission to protect our clients from material nonpublic or otherwise confidential information. 
+Today, I’m a Senior Associate of Analytics and Insights at <a href="https://www.tegus.com/" target="_blank">Tegus by AlphaSense</a>, where my role is centered around its library of interview transcripts between investment analysts and industry experts. I support the <a href="https://www.tegus.com/compliance" target="_blank">Compliance Operations</a> team in its mission to protect our clients from material nonpublic or otherwise confidential information. 
 
-Much of my day to day involves analytics automation, building workflow tools, and enhancing the company’s surveillance and detection capabilities within the core transcript product.
+Much of my day to day involves analytics automation, building workflow tools, and enhancing the company’s surveillance and detection capabilities within its core transcript product.
 
 Before Tegus, I was practicing journalism. And I loved it. I got to interview people with a wide range of experiences, analyze their quotes, and best of all, put the puzzle pieces of a story together.
 
@@ -30,4 +30,4 @@ In 2022, I started teaching myself how to code in Python, completing the Data Sc
 
 While I enjoyed the impact I was making, I knew I was missing formal training, so I set my sights on <a href="https://sps.northwestern.edu/masters/data-science/index.php" target="_blank">Northwestern</a>, where I'm currently pursuing a Master's in Data Science, with a specialization in Data Engineering.
 
-There's still plenty I'm hoping to learn outside the classroom as well, which is why I'm looking to build a portfolio of outside work to further my career in the field. 
+I'm always up for a challenge, whether that's learning new programming languages or practicing software deployments to cloud services. There's also still plenty I'm hoping to learn outside the classroom as well, which is why I'm looking to build a portfolio of outside work to further my career in the field. 
