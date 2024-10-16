@@ -52,6 +52,8 @@ date: 2024-01-14T13:36:57-06:00
 - Matplotlib
 - Plotly
 - Scikit-Learn
+- Pytorch / Tensorflow
+- Transformers
 - Streamlit
 - Requests
 - Spacy
