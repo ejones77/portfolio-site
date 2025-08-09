@@ -1,8 +1,8 @@
 ---
 title: Seven Years of Spotify
 description: Investigating My Spotify Listening Patterns
-date: "2023-1-7"
-jobDate: 2023-1-7
+date: "2023-01-07"
+jobDate: 2023-01-07
 work: [Data Analysis, Data Visualization]
 techs: [Python, Pandas, Plotly]
 thumbnail: ../../images/speakers.jpg

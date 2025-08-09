@@ -43,19 +43,72 @@ body, footer{
 
 /* static png images */
 
-  .portfolio img {
-    max-width: 150%;
-    max-height: 100%;
-    margin-left: -25%;
-  }
-
-  .image-chart {
-    object-fit: cover;
-    padding: 0;
-    border: none;
-    overflow: visible;
+.portfolio img {
+  max-width: 150%;
+  max-height: 100%;
+  margin-left: -25%;
 }
 
+/* Center thumbnail image and remove border ONLY on single portfolio pages */
+/* This targets the single portfolio page layout, not the portfolio list */
+.portfolio:not(.portfolio-list) img:first-of-type {
+  max-width: 60% !important;
+  margin: 0 auto 20px auto !important;
+  display: block !important;
+  box-shadow: none !important;
+  margin-left: auto !important;
+}
+
+/* Ensure portfolio list images keep their original styling */
+.portfolio-list img {
+  max-width: 100% !important;
+  margin-left: inherit !important;
+  box-shadow: var(--box-shadow) !important;
+}
+
+.image-chart {
+  object-fit: cover;
+  padding: 0;
+  border: none;
+  overflow: visible;
+}
+
+/* Enhanced code block styling */
+.chroma {
+  border-radius: 8px !important;
+  border: 2px solid #15998F !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3) !important;
+  margin: 25px auto !important;
+  max-width: 95% !important;
+  overflow-x: visible !important;
+  overflow-y: visible !important;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace !important;
+  font-size: 13px !important;
+  line-height: 1.5 !important;
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+}
+
+pre.chroma {
+  padding: 20px !important;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%) !important;
+  overflow: visible !important;
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+}
+
+/* JSON-specific styling improvements */
+.chroma .s2 { 
+  color: #98D8C8 !important; /* Strings in your theme's teal */
+}
+
+.chroma .mi, .chroma .mf { 
+  color: #AF3DDB !important; /* Numbers in your theme's purple */
+}
+
+.chroma .kc { 
+  color: #F7DC6F !important; /* Keywords like true/false/null in yellow */
+}
 
 /* smaller interactive charts */
 

@@ -1,8 +1,8 @@
 ---
 title: Sephora Vector Database Benchmarking
 description: Evaluate Pinecone, MongoDB, and ElasticSearch VectorDB performance on CRUD operations using a dataset of 90,000 Sephora Reviews
-date: "2023-12-3"
-jobDate: 2023-12-3
+date: "2023-12-03"
+jobDate: 2023-12-03
 work: [Machine Learning]
 techs: [Python, Pandas, Transformers]
 thumbnail: ../../images/sephora_times_square.jpg
