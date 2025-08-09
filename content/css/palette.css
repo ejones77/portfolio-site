@@ -114,6 +114,7 @@ table th, table td {
 table {
   border-collapse: separate;
   border-spacing: 0 10px;
+  border: 2px solid #15998F;
 }
 
 table tr:nth-child(even) {

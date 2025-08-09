@@ -5,20 +5,19 @@ date: 2024-01-14T13:36:57-06:00
 
 ## Work Experience
 
-#### Senior Associate, Analytics & Insights | Strategic Data Lead | Senior Compliance Associate | Compliance Associate
-##### Tegus | Chicago, IL | June 2021 - Present
+#### Tegus by Alphasense | Chicago, IL | June 2021 - Present
+##### Program Manager, Compliance Technology | Senior Associate, Analytics & Insights | Strategic Data Lead | Senior Compliance Associate | Compliance Associate
 
 <br>
 <br>
 
-- Lead a transcription vendor evaluation to reduce annual costs while maintaining high quality standards for published interview content for a subscription research platform trusted by 2,500+ investment managers and businesses.
-- Pioneer, scale, and productionize surveillance of potentially confidential information for an industry-leading compliance department of 40+ using machine learning and natural language processing to enhance risk assessment.
-- Develop and optimize robotic process automations using Snowflake, dbt, and Salesforce to implement ETL tooling in a complex, multi-layered compliance review process, improving turnaround time to publication by 55%.
-- Guide content operations strategy and enablement through advanced forecasting and capacity planning.
-- Design dashboards for compliance officers and senior leadership surrounding individual performance and department KPIs. 
+- Pioneer and productionize proprietary AI as part of a multi-layered compliance review to detect potentially confidential information in 200,000+ expert research transcripts for a subscription platform trusted by 2,500+ investment managers and businesses.   
+- Monitor and maintain scalable, concurrent document processing engines using Pytorch, Transformers, Ruby on Rails, and large language models. 
+- Architect advanced risk routing and transcript inventory management for compliance operations, accelerating turnaround time to publication. 
+- Present model evaluation results and weekly KPI updates to senior leadership. 
 
-#### Editor-in-Chief | Campus Editor | City Editor | City of East Lansing Reporter 
-##### The State News | East Lansing, MI | January 2019 - May 2021
+#### The State News | East Lansing, MI | January 2019 - May 2021
+##### Editor-in-Chief | Campus Editor | City Editor | City of East Lansing Reporter 
 
 <br>
 <br>
@@ -38,27 +37,29 @@ date: 2024-01-14T13:36:57-06:00
 | Python                  | Advanced    | Data cleaning, automation, machine learning    |
 | SQL                     | Advanced    | Data extraction, data analysis    |
 | MS Office/G suite       | Advanced    | Ad hoc analysis in Excel, presentation slides    |
-| Power BI/Looker Studio  | Advanced    | Dashboard creation, data visualization    |
-| Salesforce              | Intermediate| Report building, performance tracking    |
-| Git                     | Intermediate| Version control, collaboration    |
+| Power BI/Tableau        | Advanced    | Dashboard creation, data visualization    |
+| Go                      | Advanced    | Web scraping, concurrent processing |
+| Git                     | Advanced    | CI/CD pipelines, collaboration    |
+| AWS / GCP               | Intermediate| Application deployment,  |
+| Salesforce / Zendesk    | Intermediate| Case Management, Report building     |
 | R                       | Intermediate| Statistical testing, data visualization   |
-| Snowflake               | Beginner    | Data integration    |
-| Docker                  | Beginner    | containers, continuous deployment    |
-| VBA                     | Beginner    | Microsoft Word macros   |
+| dbt / Snowflake         | Intermediate| Analytics Engineering, Data integration    |
+| Ruby on Rails           | Beginner    | Backend engine maintenance  |
+
 
 ## Python Libraries
 - Pandas
 - Numpy
-- Matplotlib
+- Matplotlib / Seaborn
+- Statsmodels
 - Plotly
 - Scikit-Learn
 - Pytorch / Tensorflow
+- asyncio
 - Transformers
 - Streamlit
 - Requests
-- Spacy
-- NLTK
-- Statsmodels
+- Spacy / NLTK
 - PuLP (Linear Programming)
 
 ## Education
@@ -69,7 +70,7 @@ date: 2024-01-14T13:36:57-06:00
 <br>
 
 - Specialization in Data Engineering
-- Relevant coursework: Database Systems and Data Preparation, Applied Statistics with R, Math for Data Scientists
+- Relevant coursework: Data Science and Cloud Computing, Practical Machine Learning, Database Systems and Data Preparation
 
 
 #### Michigan State University | East Lansing, MI
