@@ -40,11 +40,12 @@ date: 2024-01-14T13:36:57-06:00
 | Power BI/Tableau        | Advanced    | Dashboard creation, data visualization    |
 | Go                      | Advanced    | Web scraping, concurrent processing |
 | Git                     | Advanced    | CI/CD pipelines, collaboration    |
-| AWS / GCP               | Intermediate| Application deployment,  |
+| dbt / Snowflake         | Advanced    | Analytics Engineering, Data integration    |
+| Databricks              | Intermediate| Model training & evaluation workflows as part of CI/CD |
+| AWS / GCP               | Intermediate| Application deployment, Event-driven architecture |
 | Salesforce / Zendesk    | Intermediate| Case Management, Report building     |
 | R                       | Intermediate| Statistical testing, data visualization   |
-| dbt / Snowflake         | Intermediate| Analytics Engineering, Data integration    |
-| Ruby on Rails           | Beginner    | Backend engine maintenance  |
+| Ruby on Rails           | Intermediate| Backend engine maintenance |
 
 
 ## Python Libraries

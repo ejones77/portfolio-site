@@ -6,7 +6,7 @@ images: ["/images/IMG-0588.jpg"]
 
 Nice to meet you! :wave:
 
-Today, I’m a Senior Associate of Analytics and Insights at <a href="https://www.tegus.com/" target="_blank">Tegus by AlphaSense</a>, where my role is centered around its library of interview transcripts between investment analysts and industry experts. I support the <a href="https://www.tegus.com/compliance" target="_blank">Compliance Operations</a> team in its mission to protect our clients from material nonpublic or otherwise confidential information. 
+Today, I’m a Program Manager of Compliance Technology at <a href="https://www.tegus.com/" target="_blank">Tegus by AlphaSense</a>, where my role is centered around its library of interview transcripts between investment analysts and industry experts. I support the <a href="https://www.tegus.com/compliance" target="_blank">Compliance Operations</a> team in its mission to protect our clients from material nonpublic or otherwise confidential information. 
 
 Much of my day to day involves analytics automation, building workflow tools, and enhancing the company’s surveillance and detection capabilities within its core transcript product.
 

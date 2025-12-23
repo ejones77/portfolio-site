@@ -1,5 +1,5 @@
 ---
-title: Divvy Bike Availability (WIP)
+title: Divvy Bike Availability
 description: Predicting the availability of bikes at Divvy stations across Chicago
 date: "2025-08-10"
 jobDate: 2025-08-10
