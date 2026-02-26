@@ -1,0 +1,18 @@
+{{- $pc := .Page.Site.Config.Privacy.X -}}
+{{- if not $pc.Disable -}}
+{{- if $pc.Simple -}}
+{{ template "_internal/shortcodes/twitter_simple.html" . }}
+{{- else -}}
+{{- $tweetID := print (index .Params 0) -}}
+{{- $url := printf "https://publish.twitter.com/oembed?hide_thread=1&url=https://twitter.com/x/status/%s&dnt=%t" $tweetID $pc.EnableDNT -}}
+{{- $response := resources.GetRemote $url -}}
+{{- with $response -}}
+  {{- with .Err -}}
+    {{- warnf "tweet-single: %s" . -}}
+  {{- else -}}
+    {{- $json := .Content | transform.Unmarshal -}}
+    {{ $json.html | safeHTML }}
+  {{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
